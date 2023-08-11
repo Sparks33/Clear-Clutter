@@ -6,14 +6,16 @@ The "Clear Clutter" Python project is a versatile and practical tool designed to
 
 __**How to Use It:**__
 
-Download the "Clear Clutter" script and place it in the directory you want to organize.
-Run the script using a Python interpreter.
-The script will automatically create subfolders for _images, documents, media, code, and others, and categorize files accordingly._
-Features:
+1. Download the "Clear Clutter" script and place it in the directory you want to organize.
+2. Run the script using a Python interpreter.
+3. The script will automatically create subfolders for _images, documents, media, code, and others, and categorize files accordingly._
 
-**Seamless Integration:** The script works within your existing file structure, enhancing convenience.
-**Extensible Framework:** Customize the script to include additional file types or categories as needed.
-**Dynamic Monitoring:** The project adapts to new files, ensuring continuous organization without repeated execution.
+   
+__**Features:**__
+
+- **Seamless Integration:** The script works within your existing file structure, enhancing convenience.
+- **Extensible Framework:** Customize the script to include additional file types or categories as needed.
+- **Dynamic Monitoring:** The project adapts to new files, ensuring continuous organization without repeated execution.
 
 __**Copyright:**__
 "Clear Clutter" is distributed under the MIT liscence. Feel free to modify and distribute the project while adhering to the terms of the license.
